@@ -21,7 +21,7 @@ main {
   display: flex;
   background-color: white;
   width: 550px;
-  height: 400px;
+  height: 430px;
 }
 
 .product-image {
@@ -64,6 +64,7 @@ main {
 }
 
 .product-add-to-cart {
+  cursor: pointer;
   border-radius: 10px;
   display: flex;
   align-items: center;
